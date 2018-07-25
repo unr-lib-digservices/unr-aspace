@@ -1,2 +1,2 @@
 # unr-aspace
-For tools and pushing/checking code for ingest.
+Tools and spaces for pushing and checking metadata for ingest.
